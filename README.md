@@ -9,5 +9,5 @@ All of these notes can be viewed through the repository itself, though you can a
 
 - [ ] Sociology wiki
 	- [ ] Theoretical perspectives on crime and deviance
-		- [ ] [Functionalism](Sock/Theoretical%20perspectives%20of%20crime%and%20deviance/Functionalism.md)
-		- [ ] [Subcultural theory](Subcultural%20theory)
+		- [ ] [Functionalism](https://github.com/VimToaster/Obsidian/blob/main/Sock/Theoretical%20perspectives%20of%20crime%20and%20deviance'/Functionalism.md)
+		- [ ] Subcultural theory
