@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c07e0b8aa9158323",
+  "active": "ebeadade5c57d4d9",
   "lastOpenFiles": [
-    "Sock/Theoretical perspectives of crime and deviance'/Functionalism.md",
-    "README.md",
     "Sock/Theoretical perspectives of crime and deviance'/Subcultural theory.md",
-    "Subcultural.md",
+    "README.md",
+    "Sock/Theoretical perspectives of crime and deviance'/Functionalism.md",
+    "Sock.md",
     "Sock/Assess subcultural explanations of crime and deviance (40).md",
+    "Subcultural.md",
     "Sock/Theoretical perspectives of crime and deviance'",
     "Phys/Capacitance.md",
     "Rationale.md",
