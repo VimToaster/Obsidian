@@ -1,0 +1,12 @@
+- Use sentence starters for title
+- Timetable/GANTT chart
+- Break down aims into objectives for each subtitle
+- Use appropriate terminology
+- Rationale
+	- Why im doing ts
+- Priorities after aims and objectives
+	- Rank them on prtority
+- Resources
+	- Reliability
+	- SWOT analysis
+Once done research project plan
