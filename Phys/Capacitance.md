@@ -14,3 +14,4 @@ Capacitors are an electrical component made from 2 parallel conductive plates, s
 
 
 
+
