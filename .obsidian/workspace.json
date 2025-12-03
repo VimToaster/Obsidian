@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sock/Theoretical perspectives of crime and deviance'/Marxism.md",
+                "file": "Sock/Assess Social Class explanations for crime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marxism"
+              "title": "Assess Social Class explanations for crime"
             }
           },
           {
@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,15 +212,18 @@
   },
   "active": "a57be637e63c578c",
   "lastOpenFiles": [
+    "New Text Document.txt",
     "Sock/Theoretical perspectives of crime and deviance'/Right Realism.md",
-    "Sock/Assess subcultural explanations of crime and deviance (40).md",
+    "Sock/Assess Social Class explanations for crime.md",
+    "UCAS/Personal statement.md",
     "Sock/Theoretical perspectives of crime and deviance'/Marxism.md",
+    "UCAS",
+    "Sock/Assess subcultural explanations of crime and deviance (40).md",
     "Sock/Theoretical perspectives of crime and deviance'/Subcultural theory.md",
     "Sock/Theoretical perspectives of crime and deviance'/Interactionalism.md",
     "Sock/Theoretical perspectives of crime and deviance'/Functionalism.md",
-    "Sock/Assess Social Class explanations for crime.md",
     "Phys/Gravitational fields.md",
-    "Pasted image 20251202134832.png",
+    "Phys/Pasted image 20251202134832.png",
     "The Bacc/Research/Quantum computers.md",
     "The Bacc/Project plan.md",
     "The Bacc/Rationale.md",
