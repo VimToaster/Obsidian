@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"1d82d6f2fc87952f","type":"text","text":"### state agencies\n\nDecide if an act is a crime and how to address it","x":-380,"y":-200,"width":320,"height":140},
+		{"id":"bacffe7ca775966b","type":"text","text":"### Offender\n\nCommits crime, relative deprivation, marginalisation, subculture","x":240,"y":-200,"width":320,"height":140},
+		{"id":"9ef363d7f24b1219","type":"text","text":"### Victim\n\nDecides whether crime has been committed and whether to report it","x":242,"y":70,"width":320,"height":140},
+		{"id":"1e8180da086790e4","type":"text","text":"### The public\n\nInformal control, react to crime in different ways","x":-380,"y":70,"width":320,"height":140}
+	],
+	"edges":[
+		{"id":"6d2b308e5b69628f","fromNode":"1d82d6f2fc87952f","fromSide":"bottom","toNode":"1e8180da086790e4","toSide":"top","fromEnd":"arrow"},
+		{"id":"140b99504e8ba5bd","fromNode":"1d82d6f2fc87952f","fromSide":"right","toNode":"bacffe7ca775966b","toSide":"left","fromEnd":"arrow"},
+		{"id":"963520de6456e083","fromNode":"1e8180da086790e4","fromSide":"right","toNode":"9ef363d7f24b1219","toSide":"left","fromEnd":"arrow"},
+		{"id":"83599fdbf207d8fa","fromNode":"9ef363d7f24b1219","fromSide":"top","toNode":"bacffe7ca775966b","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"5fa2952afb36d384","fromNode":"1d82d6f2fc87952f","fromSide":"right","toNode":"9ef363d7f24b1219","toSide":"left"},
+		{"id":"4e0a40ba7d113025","fromNode":"9ef363d7f24b1219","fromSide":"top","toNode":"1d82d6f2fc87952f","toSide":"bottom"},
+		{"id":"5a2693b1b39ed649","fromNode":"1e8180da086790e4","fromSide":"top","toNode":"bacffe7ca775966b","toSide":"bottom"},
+		{"id":"738473aa1a3da653","fromNode":"1e8180da086790e4","fromSide":"right","toNode":"bacffe7ca775966b","toSide":"left"}
+	]
+}

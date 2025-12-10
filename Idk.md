@@ -1,0 +1,2 @@
+Hedonia refers to happiness derived from pleasure and enjoyment
+eudaimonia is about achieving a meaningful and fulfilling life through virtue and personal growth. Balancing both can lead to a more satisfying existence.

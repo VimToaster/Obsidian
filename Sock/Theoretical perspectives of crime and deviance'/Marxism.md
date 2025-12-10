@@ -21,7 +21,7 @@
 - What is defined as a serious crime is ideologically constructed.
 - Crimes such as property crime and violence are treated as serious crimes among lower classes
 - However, upper classes that commit crimes such as environmental crimes that put many more lives at risk are not considered as such
-- Even crime such as murder canbe ambiguous, for example, deaths due to negligence are not considered as such
+- Even crime such as murder can be ambiguous, for example, deaths due to negligence are not considered as such
 	- Tokai Mura power plant incident
 		- Hisashi Ouichi
 	- Negligence lead to a torturous death and no one was convicted, only compensation was distributed
