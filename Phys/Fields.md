@@ -1,3 +1,4 @@
+# Gravitational
 - Gravitational fields are always attractive
 	-  $F= \frac {Gm_1m_2} {r^2}$
 	- Newton's law describes how forces between two point masses depends on the size of each mass#
@@ -29,7 +30,7 @@
 		- $\Delta U_p = mgh$
 		- Where $U_p$ is potential energy
 
-# Electric fields
+# Electric
 - Negative fields attract and positive repel
 	- Negative people need attention
 	- Positive people give it
