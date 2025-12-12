@@ -10,6 +10,7 @@
 
 ## Gordon
 - Crime is inevitable as capitalism is "Crimogenic"
+	- 'Dog eat dog'
 	- This means that the nature of capitalism lays the groundwork for crime
 	- This is illustrated in four ways
 		- Capitalism is characterised as class inequalities. He suggests that most working-class crime is a rational response to this inequality.
