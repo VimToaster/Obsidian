@@ -14,3 +14,19 @@ All of these notes can be viewed through the repository itself, though you can a
 - [ ] Phys
 	- [x] Capacitance
 	- [ ] Gravitational fields
+- [ ] Welsh Bacc
+	- [x] Rationale
+	- [x] Aims and objectives
+		- [x] Objective1
+			- [x] Source analysis
+				- [x] 1
+				- [ ] 2
+		- [ ] Objective2
+			- [ ] Source analysis
+				- [ ] 1
+					- [ ] 
+				- [ ] 2
+		- [ ] Objective3
+			- [ ] Source analysis
+				- [ ] 1
+				- [ ] 2

@@ -26,4 +26,4 @@
 	- Tokai Mura power plant incident
 		- Hisashi Ouichi
 	- Negligence lead to a torturous death and no one was convicted, only compensation was distributed
-- 
+
