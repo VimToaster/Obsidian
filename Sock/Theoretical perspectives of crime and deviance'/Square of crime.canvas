@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"1d82d6f2fc87952f","type":"text","text":"### state agencies\n\nDecide if an act is a crime and how to address it","x":-380,"y":-200,"width":320,"height":140},
 		{"id":"bacffe7ca775966b","type":"text","text":"### Offender\n\nCommits crime, relative deprivation, marginalisation, subculture","x":240,"y":-200,"width":320,"height":140},
-		{"id":"9ef363d7f24b1219","type":"text","text":"### Victim\n\nDecides whether crime has been committed and whether to report it","x":242,"y":70,"width":320,"height":140},
-		{"id":"1e8180da086790e4","type":"text","text":"### The public\n\nInformal control, react to crime in different ways","x":-380,"y":70,"width":320,"height":140}
+		{"id":"1e8180da086790e4","type":"text","text":"### The public\n\nInformal control, react to crime in different ways","x":-380,"y":190,"width":320,"height":140},
+		{"id":"9ef363d7f24b1219","type":"text","text":"### Victim\n\nDecides whether crime has been committed and whether to report it","x":240,"y":190,"width":320,"height":140}
 	],
 	"edges":[
 		{"id":"6d2b308e5b69628f","fromNode":"1d82d6f2fc87952f","fromSide":"bottom","toNode":"1e8180da086790e4","toSide":"top","fromEnd":"arrow"},
