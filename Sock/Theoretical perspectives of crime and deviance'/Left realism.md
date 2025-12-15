@@ -1,4 +1,4 @@
-# Young
+# Young (1997)
 - [[Square of crime.canvas|Square of crime]]
 - Argues that we must be tough on crime
 	- Not only criminals, but also social factors that can lead to crime
@@ -13,3 +13,4 @@
 	- Subcultural membership
 		- Many working-class subcultures are anti-authority or antagonistic of the police (ACAB, BLM, etc.).
 		- This develops as a response to the poor social conditions, for example, young West Indian men turned to Rastafarianism, therefore resulting in a higher cannabis consumption
+
