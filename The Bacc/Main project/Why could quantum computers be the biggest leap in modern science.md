@@ -8,14 +8,18 @@ Duranton, S. (2024). _Quantum Computing Takes Off With $55 Billion In Global Inv
 
 
 
-This article goes into depth on a project announced by China where they are investing $138 Billion into emerging technologies that includes quantum computing and research surrounding it. This project is also fully supported and backed by the government. This and the previous article shows that the leading superpower in quantum computing is undeniably China who seem to be much more interested in such technologies than the rest of the world.
+This article goes into depth on a project announced by China where they are investing $138 Billion into emerging technologies that includes quantum computing and research surrounding it. This article states that the Chinese government has a clear interest in these emerging technologies, amongst them being quantum computing. However, the article doesn't mention exactly how much of this funding is being allocated to the quantum research departments. Though this is not to say that this is a minimal effort, any new information regarding quantum computing is exceptional.
 
 Swayne, M. (2025). _China Launches $138 Billion Government-Backed Venture Fund, Includes Quantum Startups_. [online] The Quantum Insider. Available at: https://thequantuminsider.com/2025/03/07/china-launches-138-billion-government-backed-venture-fund-includes-quantum-startups/.
 
 ‌
-Research from QuEra reveals that 51% of over 900 quantum computing academics, scientists and professionals believe that quantum computing is making faster progress than expected. Furthermore, 40% think that it will be a superior alternative to classical computers in the next 5 years. However, with such a fast development, this has caused many (31%) to become concerned that companies will not be able to adapt to the new technology similar to the current adoption of AI. According to this article, the United States claim that they are in the pole position to lead the industry with 82% in agreement.
 
-Quera.com. (2025). _Research reveals quantum computing development is faster than expected_. [online] Available at: https://www.quera.com/press-releases/research-reveals-quantum-computing-development-is-faster-than-expected-set-to-become-superior-technology-within-five-years.
+
+To summarise the statistics mentioned previously, there has been a significant global effort towards research into quantum computing where the USA seems to be at the forefront of technological advancement with other countries showing clear interest. With the financial support from governments and private sources we have also seen significant progress on the development of quantum computing. This is evident as within the last year, Microsoft unveiled the first quantum computer powered by topological qubits (Basically a more accurate way to measure the qubits). Showing that the funding has been used in a clearly effective way. 
+
+Nayak, C. (2025). _Microsoft unveils Majorana 1, the world’s first quantum processor powered by topological qubits - Microsoft Azure Quantum Blog_. [online] Microsoft Azure Quantum Blog. Available at: https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/.
+
+‌
 
 
 ### Gather insight into public opinion on quantum computers
@@ -33,10 +37,41 @@ The study as a whole has been a strikingly useful tool for gaining statistics be
 team, N. (2024). _Report reveals UK attitudes toward quantum computing_. [online] Department of Computer Science. Available at: https://www.cs.ox.ac.uk/news/2399-full.html [Accessed 14 Dec. 2025]. - Note that the study linked in the article has been taken down, you can find the original pdf here: https://web.archive.org/web/20241203030505/https://www.qcshub.org/sitefiles/public-dialogue-on-quantum-computing.pdf
 
 
-
 A study published by EPSRC looked into the opinion of 77 UK residents shows that in 2017, people were generally in the dark about recent developments in quantum technologies, with this and the study mentioned previously that was taken in 2024, we can estimate that over this period of time, people seem to have become more aware of such technologies in recent years. Furthermore, an interesting point of discussion brough up by the article is that the word 'quantum' seemed to be familiar, most knew very little about the topic itself. Although, the article states that 'as most participants learnt more about quantum technologies, they became increasingly curious and excited about them'. I tend to find this piece of information extremely interesting as it shows that people have a clear interest in the topic, however they lack the prior experience to know about the topic. With this, along with the previous evidence. (Oxford university article and my own survey). We can conclude that the majority of people may have heard at least the term 'quantum' from various places, along with evidence to support that people, upon hearing about the topic, seem to become more intrigued with it. Though, I propose a concern that, despite public knowledge, people may only hear the good that can come from these machines and may have a rose tinted view on what they can do, entirely ignoring the damage that these technologies may cause. This is briefly mentioned in the Oxford study, though only within people who took part in the workshop, implying prior knowledge.
 ‌
 Physics World. (2018). _UK public has little understanding of quantum technologies, says survey_. [online] Available at: https://physicsworld.com/a/uk-public-has-little-understanding-of-quantum-technologies-says-survey/.
 
 ‌
+### Analyse future projections by experts
+- How much will they advance in the future
+- Will they replace traditional computers
+
+Research from QuEra reveals that 51% of over 900 quantum computing academics, scientists and professionals believe that quantum computing is making faster progress than expected. Furthermore, 40% think that it will be a superior alternative to classical computers in the next 5 years. However, with such a fast development, this has caused many (31%) to become concerned that companies will not be able to adapt to the new technology similar to the current adoption of AI. According to this article, the United States claim that they are in the pole position to lead the industry with 82% in agreement.
+
+Quera.com. (2025). _Research reveals quantum computing development is faster than expected_. [online] Available at: https://www.quera.com/press-releases/research-reveals-quantum-computing-development-is-faster-than-expected-set-to-become-superior-technology-within-five-years.
+
+
+
+
+Swayne, M. (2025). _Quantum Computing Roadmaps: A Look at The Maps And Predictions of Major Quantum Players_. [online] The Quantum Insider. Available at: https://thequantuminsider.com/2025/05/16/quantum-computing-roadmaps-a-look-at-the-maps-and-predictions-of-major-quantum-players/.
+
+
+Before I analyse the next source, I would like to preface that the main problem with quantum computers is their incredibly volatile nature as, to remain in a quantum state, the qubit must not have *any* external influence. This can be caused by almost any external force, for instance if a single photon merely interacts with the qubit, it will decohere, resulting in noise. To date, it has proven extremely difficult to preserve the wavefunction (quantum state of a particle). Most articles in this study cover different methods of reducing this.
+This article by StartUs has been an incredible resource to form an estimate of how quantum computing can improve in the future. It states 10 possibilities that will, together, build the lattice for the future of quantum computing. The first and possibly most impactful potential pathway is to improve the accuracy of the quantum qubits to eliminate or minimise their error rate. Pictured below in graph 1A is a plot of different quantum computing architectures and how error prone they are over a set amount of cycles. As seen below, using a 7x7 architecture drastically reduces the rate and overall amount of logical errors.
+
+Graph 1A
+![[Pasted image 20251216092356.png]]
+
+A more relevant example is the hope for wider use of Topological qubits, meaning that they can resist small disturbances. This would mean that the qubits would produce less errors overall due to a source of errors being resisted. This technology has proven its relevance with Microsoft's Majorana 1 chip which uses this technology to build a both powerful and resilient chip.
+
+Another development is the adoption of superconducting qubits that use materials with zero electronic resistance to create an artificial atom with microwaves that can be controlled much easier than a traditional electron or photon.  The benefits of this design are that it reduces noise caused by external interference by isolating the system with the superconductor and microwaves. Recently an IBM processor named Nighthawk that uses this technology to create a system that produces less noise that allows for more accurate results that previous designs.
+
+Trapped ion systems
+Use charged atoms to act as stable qubits, using lasers to control the ions with high precision. Oxford Ionics reported the highest-ever state preparation and measurement [(SPAM) fidelities of 99.9993%](https://www.oxionics.com/announcements/oxford-ionics-sets-new-world-record-in-qubit-readout/) (Its really precise)
+
+Quantum AI-convergence
+This drives Quantum Machine Learning (QML) to contribute around [USD 150 billion](https://www.bain.com/insights/quantum-computing-moves-from-theoretical-to-inevitable-technology-report-2025/) to the projected market value of quantum computing (USD 250 billion).
+
+StartUs Insights (2025). _Future of Quantum Computing [2026-2030] | StartUs Insights_. [online] StartUs Insights. Available at: https://www.startus-insights.com/innovators-guide/future-of-quantum-computing/#Quantum-error-correction [Accessed 15 Dec. 2025].
+
 ‌
