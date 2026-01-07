@@ -14,3 +14,6 @@
 		- Many working-class subcultures are anti-authority or antagonistic of the police (ACAB, BLM, etc.).
 		- This develops as a response to the poor social conditions, for example, young West Indian men turned to Rastafarianism, therefore resulting in a higher cannabis consumption
 
+
+# Kinsey et al
+- 

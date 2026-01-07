@@ -1,4 +1,9 @@
 {
-  "cssTheme": "Solarized",
-  "theme": "obsidian"
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Hurmit Nerd Font Mono",
+  "textFontFamily": "Hurmit Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMonoNL NFM",
+  "baseFontSize": 16,
+  "accentColor": ""
 }

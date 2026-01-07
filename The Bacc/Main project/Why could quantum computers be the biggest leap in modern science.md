@@ -66,8 +66,7 @@ A more relevant example is the hope for wider use of Topological qubits, meaning
 
 Another development is the adoption of superconducting qubits that use materials with zero electronic resistance to create an artificial atom with microwaves that can be controlled much easier than a traditional electron or photon.  The benefits of this design are that it reduces noise caused by external interference by isolating the system with the superconductor and microwaves. Recently an IBM processor named Nighthawk that uses this technology to create a system that produces less noise that allows for more accurate results that previous designs.
 
-Trapped ion systems
-Use charged atoms to act as stable qubits, using lasers to control the ions with high precision. Oxford Ionics reported the highest-ever state preparation and measurement [(SPAM) fidelities of 99.9993%](https://www.oxionics.com/announcements/oxford-ionics-sets-new-world-record-in-qubit-readout/) (Its really precise)
+ Another method proposed by the article are trapped-ion systems which uses ions as an alternative to other particles as it allows the ability to control the particles precisely with lasers. Researchers claim that this method is one of the most accurate approaches with Oxford Ionics reporting the highest-ever state preparation and measurement [(SPAM) fidelities of 99.9993%](https://www.oxionics.com/announcements/oxford-ionics-sets-new-world-record-in-qubit-readout/), essentially meaning that this method produces exceedingly precise results. This is strong coherence and uniform qubit behaviour.
 
 Quantum AI-convergence
 This drives Quantum Machine Learning (QML) to contribute around [USD 150 billion](https://www.bain.com/insights/quantum-computing-moves-from-theoretical-to-inevitable-technology-report-2025/) to the projected market value of quantum computing (USD 250 billion).
