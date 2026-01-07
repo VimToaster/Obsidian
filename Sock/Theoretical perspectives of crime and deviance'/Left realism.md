@@ -16,4 +16,14 @@
 
 
 # Kinsey et al
+- Policing system has many flaws
+- Do not spend enough time investigating crime and therefore some crime is left unnoticed
+- Relies on public reports
+	- Due to lack of trust in the system, people are less likely to report crime
+- Resort to "Military policing" resulting in more invasive policing techniques, further helping to lessen the support in the system
+- Kinsey argues that the police need to change their technique to regain public trust
+	- Spend more time investigating crime
+	- Public should have more of a voice when creating legal policies
+		- Online safety act (2025)
+		- Police can't police themselves
 - 
