@@ -1,10 +1,9 @@
-# Stages
 
-## Aim
+# Aim
 - Outline the aim of the study - link to context and the method you have selected
 	- Should be a few sentences
 
-## Define an operationalise
+# Define an operationalise
 - Highlight key terms of the group/individuals in relation to the context of the scenario#
 	- Usually 2 terms to operationalise
 		- Couple of sentences
@@ -13,7 +12,7 @@
 - Literature review
 	- Review existing literature relating the the subject and how your study will expand on the information provided
 
-## Theory
+# Theory
 - 2/3 page paragraph
 	- Key terms used throughout
 		- [[Dictionary#GROVER]] terms
@@ -23,7 +22,7 @@
 				- Describe why
 				- Link theory in detail
 
-## Ethics
+# Ethics
 - 2/3 page paragraph
 - Consider deception, informed consent, anonymity, confidentiality, sensitivity, avoiding harm
 	- Use of pseudonyms in qualitative data
@@ -48,7 +47,7 @@
 	- Geriatrics?
 	- Mothers?
 
-## Pilot study
+# Pilot study
 - Small paragraph
 - Test interview questions
 	- No ambiguity
