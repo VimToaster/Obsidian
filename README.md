@@ -8,9 +8,9 @@ All of these notes can be viewed through the repository itself, though you can a
 - [ ] Sociology wiki
 	- [ ] Theoretical perspectives on crime and deviance
 		- [x] Functionalism
-		- [ ] Interactionalism
-		- [ ] Marxism
-		- [ ] Right Realism
+		- [x] Interactionalism
+		- [x] Marxism
+		- [x] Right Realism
 - [ ] Phys
 	- [x] Capacitance
 	- [ ] Gravitational fields

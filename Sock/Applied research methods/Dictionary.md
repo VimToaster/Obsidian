@@ -7,6 +7,42 @@
 	- Ethics
 	- Representativeness
 
+# Generalisation#
+- The study is able to be applied to a greater population than the sample size
+- Mainly a positive of [[#Qualitative research]]
+
+# Reliability
+- How well a certain study can be replicated
+- Trends and patterns
+- [[#Quantitative research]]
+
+# Objectivity
+- How well a study eliminated bias
+- [[#Quantitative research]]
+
+# Validity
+- Whether results of a study are provably honest
+- [[#Qualitative research]]
+- Gained through developing rapport and verstehen
+
+# Ethics
+- Whether a study respects the subjects rights and aligns with the [[#BSA]]
+- Some important talking points
+	- Confidentiality
+		- Most important
+		- Pseudonyms
+		- Obscure details
+	- 
+
+# Representativeness
+- Linked to generalisation
+- Measure of how accurately a study represents the greater population
+- [[#Social facts]]
+
+# Social facts
+- Term coined by [[#Positivists]]
+- Refers to results that can be generalised, hence forming facts related to a society
+
 # Interpretivists
 - People who generally prefer qualitative methods over quantitative
 	- Prioritise validity over generalisation/representativeness
@@ -32,7 +68,6 @@
 - Right to withdraw
 - Anonymity
 
-
 # Secondary data
 - Data taken from external studies
 	- Used for referencing and literature review in 30 marker
@@ -43,9 +78,6 @@
 # Qualitative research
 - Research that gathers data in the form of spoken words
 
-# Ethics
-- Whether a study respects the subjects rights and aligns with the [[#BSA]]
-- Part of [[#GROVER]]
 
 # Generalisability
 - How well a study can be applied to a greater population
@@ -91,4 +123,17 @@
 - Researcher asks subject structured questions
 	- Cannot probe answers
 - - Validity
+	- More valid than [[#Questionnaire surveys]]
+	- Less valid than [[#Qualitative research]]
+- + Allows researcher to gauge understanding based on body language
+
+# Semi-structured interviews
+- Similar to [[#Unstructured interview]] but has more structure
+- Set list of questions
+- Source of [[#Qualitative research]]
+	- Hence,
+	- + Validity
+		- Less than unstructured but more than [[#Quantitative research]]
+	- - Objectivity
+		- Results subject to researcher's interpretation
 
