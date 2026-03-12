@@ -2,7 +2,9 @@
 - How much is being invested
 - What are the recent developments
 
-An article written by Forbes last year gave some insight into the global spending on quantum computers, stating that global investments reached $55 billion the main contributor being China with an estimated $15 billion invested. For comparison, the UK's military budget is around 60 billion for the financial year, this shows that research on quantum computers is relatively high interest, being comparable to the financial support of a top 10 military power. Furthermore, France has said that they aim to invest $2 billion and create 30,000 jobs by 2026. The quantum computer market as a whole has an estimated worth of about $1billion. 
+This article goes in depth on how much is being invested into the blooming technology as of current day. Stating that worldwide investment has reached $55 billion. The main contribution to this being from China who are estimated to have invested around $15 billion of this number alone. This article also states that we are closer than ever to reaching the projection of $500 billion to $1 billion in profit during the next 15 years. 2024 alone was estimated to have produced $1 billion in market value alone. However, China is not the only notable country involved. Several European countries such as Germany and France are also showing interest, the latter of which investing $2 billion to create upwards of 30,000 jobs relating to this field.
+
+This article and the data it presents show that there is an undeniable **Global** interest in the technology. This also shows that the developments and revenue are reaching the projections, meaning that future investment is almost guaranteed, bringing us closer to public adoption.
 
 Duranton, S. (2024). _Quantum Computing Takes Off With $55 Billion In Global Investments_. [online] Forbes. Available at: https://www.forbes.com/sites/sylvainduranton/2024/06/26/quantum-now/.
 
@@ -26,7 +28,6 @@ Nayak, C. (2025). _Microsoft unveils Majorana 1, the world’s first quantum pr
 - Send a survey to gather public insight
 - Find supporting articles for secondary research
 
-Not enough survey responses yet
 
 This survey grants useful coverage on a survey that was used to gather information regarding how aware the general public are of quantum computing withing the UK. The survey had questioned over 1000 participants with some of the key takeaways are that 60% claim that they are 'familiar' with the concept, 5% claimed they had intimate knowledge and 31% had heard the term but knew little. Personally these statistics are shocking as from my own experiences, people tend not to be familiar with the term beyond surface level knowledge. However, statistics provided by this survey show that a majority are familiar. Though to what extent was not questioned. This study had also held workshops with 45 people where participants showed excitement about how the technology could be used in practicality with various STEM fields along with use in security and defence despite some concerns. However, all was not positive as some also showed concern for loss of jobs due to quantum empowered AI with a strong suggestion for regulation of these machines. Though despite some gripes, most agreed on the importance of the UK's development on quantum computing to avoid falling behind other nations.
 
@@ -51,11 +52,6 @@ Research from QuEra reveals that 51% of over 900 quantum computing academics, sc
 Quera.com. (2025). _Research reveals quantum computing development is faster than expected_. [online] Available at: https://www.quera.com/press-releases/research-reveals-quantum-computing-development-is-faster-than-expected-set-to-become-superior-technology-within-five-years.
 
 
-
-
-Swayne, M. (2025). _Quantum Computing Roadmaps: A Look at The Maps And Predictions of Major Quantum Players_. [online] The Quantum Insider. Available at: https://thequantuminsider.com/2025/05/16/quantum-computing-roadmaps-a-look-at-the-maps-and-predictions-of-major-quantum-players/.
-
-
 Before I analyse the next source, I would like to preface that the main problem with quantum computers is their incredibly volatile nature as, to remain in a quantum state, the qubit must not have *any* external influence. This can be caused by almost any external force, for instance if a single photon merely interacts with the qubit, it will decohere, resulting in noise. To date, it has proven extremely difficult to preserve the wavefunction (quantum state of a particle). Most articles in this study cover different methods of reducing this.
 This article by StartUs has been an incredible resource to form an estimate of how quantum computing can improve in the future. It states 10 possibilities that will, together, build the lattice for the future of quantum computing. The first and possibly most impactful potential pathway is to improve the accuracy of the quantum qubits to eliminate or minimise their error rate. Pictured below in graph 1A is a plot of different quantum computing architectures and how error prone they are over a set amount of cycles. As seen below, using a 7x7 architecture drastically reduces the rate and overall amount of logical errors.
 
@@ -67,6 +63,8 @@ A more relevant example is the hope for wider use of Topological qubits, meaning
 Another development is the adoption of superconducting qubits that use materials with zero electronic resistance to create an artificial atom with microwaves that can be controlled much easier than a traditional electron or photon.  The benefits of this design are that it reduces noise caused by external interference by isolating the system with the superconductor and microwaves. Recently an IBM processor named Nighthawk that uses this technology to create a system that produces less noise that allows for more accurate results that previous designs.
 
 Also, a different method proposed by the article is the use of trapped-ion systems which uses ions as an alternative to other particles as it allows the ability to control the particles precisely with lasers. Researchers claim that this method is one of the most accurate approaches with Oxford Ionics reporting the highest-ever state preparation and measurement [(SPAM) fidelities of 99.9993%](https://www.oxionics.com/announcements/oxford-ionics-sets-new-world-record-in-qubit-readout/), essentially meaning that this method produces exceedingly precise results. This is strong coherence and uniform qubit behaviour.
+
+Swayne, M. (2025). _Quantum Computing Roadmaps: A Look at The Maps And Predictions of Major Quantum Players_. [online] The Quantum Insider. Available at: https://thequantuminsider.com/2025/05/16/quantum-computing-roadmaps-a-look-at-the-maps-and-predictions-of-major-quantum-players/.
 
 Quantum AI-convergence
 This drives Quantum Machine Learning (QML) to contribute around [USD 150 billion](https://www.bain.com/insights/quantum-computing-moves-from-theoretical-to-inevitable-technology-report-2025/) to the projected market value of quantum computing (USD 250 billion).
