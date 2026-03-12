@@ -10,14 +10,13 @@ Duranton, S. (2024). _Quantum Computing Takes Off With $55 Billion In Global Inv
 
 
 
-This article goes into depth on a project announced by China where they are investing $138 Billion into emerging technologies that includes quantum computing and research surrounding it. This article states that the Chinese government has a clear interest in these emerging technologies, amongst them being quantum computing. However, the article doesn't mention exactly how much of this funding is being allocated to the quantum research departments. Though this is not to say that this is a minimal effort, any new information regarding quantum computing is exceptional.
+Another article that discusses funding used for quantum computing is one by "the quantum insider" who go more in-depth on China's expenses where they launch a $138 billion fund that is split among several areas of research. One of which being quantum computing. The article in question states that China has had it's eye on the new technology as it becomes more relevant each time a significant development is made. Therefore they are showing a clear interest in the technology with their recent announcement. With this funding there is hopes that competition will push development to advance even faster that it would otherwise. 
 
 Swayne, M. (2025). _China Launches $138 Billion Government-Backed Venture Fund, Includes Quantum Startups_. [online] The Quantum Insider. Available at: https://thequantuminsider.com/2025/03/07/china-launches-138-billion-government-backed-venture-fund-includes-quantum-startups/.
-
 ‌
 
 
-To summarise the statistics mentioned previously, there has been a significant global effort towards research into quantum computing where the USA seems to be at the forefront of technological advancement with other countries showing clear interest. With the financial support from governments and private sources we have also seen significant progress on the development of quantum computing. This is evident as within the last year, Microsoft unveiled the first quantum computer powered by topological qubits (Basically a more accurate way to measure the qubits). Showing that the funding has been used in a clearly effective way. 
+Evidence provided by the previous articles shows a clear interest in the development of quantum physics hence, development of quantum computers. An extremely influential technology released in early 2025 is the computer named Majorana 1 created by the collective minds of those at Microsoft. This device's unveiling was an extremely monumental event in the world of quantum computing as it used a new technology and provided extremely promising results. This showed that the billions of dollars invested were not wasted and that significant progress is still being made with the help of the funding provided by governments and corporations. 
 
 Nayak, C. (2025). _Microsoft unveils Majorana 1, the world’s first quantum processor powered by topological qubits - Microsoft Azure Quantum Blog_. [online] Microsoft Azure Quantum Blog. Available at: https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/.
 
