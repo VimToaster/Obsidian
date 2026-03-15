@@ -11,14 +11,14 @@
             "id": "e07957519e825c3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "The Bacc/Main project/Why could quantum computers be the biggest leap in modern science.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Why could quantum computers be the biggest leap in modern science"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -177,19 +177,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
   "active": "e07957519e825c3b",
   "lastOpenFiles": [
-    "The Bacc/Main project/Self evaluation.md",
+    "Planner.md",
     "The Bacc/Main project/Why could quantum computers be the biggest leap in modern science.md",
+    "Timetable + plan.md",
+    "The Bacc/Main project/Self evaluation.md",
+    "Maths",
+    "New folder",
     "The Bacc/Main project/Project plan.md",
     "The Bacc/Main project/Rationale.md",
     "The Bacc/Meeting minutes.md",
     "The Bacc/Main project/Pasted image 20251216092356.png",
-    "Pasted image 20260312114835.png",
-    "Pasted image 20260312114643.png",
+    "The Bacc/Main project/Pasted image 20260312114835.png",
+    "The Bacc/Main project/Pasted image 20260312114643.png",
     "Maths/A2 Integration Full Solutions.pdf",
     "Maths/A2 Proof Full Solutions.pdf",
     "Phys/A2 Integration Full Solutions.pdf",
@@ -216,12 +222,8 @@
     "Sock/Does the existence of bliss necessitate suffering.md",
     "The Bacc/Research/Quantum Physics.md.md",
     "Phys/Capacitance.md",
-    "Maths/Normal Distribution.md",
     "Sock/Theoretical perspectives of crime and deviance'/Untitled.base",
-    "Subcultural.md",
     "New Text Document.txt",
-    "UCAS",
-    "Phys/Pasted image 20251202134832.png",
-    "Sock/Theoretical perspectives of crime and deviance'"
+    "Phys/Pasted image 20251202134832.png"
   ]
 }
